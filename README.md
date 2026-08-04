@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
