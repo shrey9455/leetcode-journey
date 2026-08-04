@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -14,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
