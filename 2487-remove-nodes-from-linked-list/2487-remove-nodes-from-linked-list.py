@@ -9,16 +9,29 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        stack=[]
-        cur=head
+        cur = head
+        arr = []
+
         while cur:
-            while stack and stack[-1].val<cur.val:
-                stack.pop()
-            stack.append(cur)
-            cur=cur.next
-        nxt=None
-        while stack:
-            cur=stack.pop()
-            cur.next=nxt
-            nxt=cur
-        return nxt
+            arr.append(cur.val)
+            cur = cur.next
+
+        result = []
+        maximum = float('-inf')
+
+        for i in range(len(arr) - 1, -1, -1):
+            if arr[i] >= maximum:
+                result.append(arr[i])
+                maximum = arr[i]
+
+        result.reverse()
+
+        dummy = ListNode(0)
+        h = dummy
+
+        for x in result:
+            h.next = ListNode(x)
+            h = h.next
+
+        return dummy.next
+            
