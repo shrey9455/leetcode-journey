@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shrey9455/leetcode-journey/tree/master/0053-maximum-subarray) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
