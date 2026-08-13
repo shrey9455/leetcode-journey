@@ -7,8 +7,7 @@ class Solution(object):
         # seen=set()
         
         for i in range(len(arr)):
-            sub=arr[:i]+arr[i+1:]
-            if 2*arr[i] in sub:
+            if 2*arr[i] in arr[:i]+arr[i+1:]:
                 return True
         else:
             return False
