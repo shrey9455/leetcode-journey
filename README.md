@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrey9455/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shrey9455/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/shrey9455/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/shrey9455/leetcode-journey/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/shrey9455/leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/shrey9455/leetcode-journey/tree/master/1929-concatenation-of-array) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
