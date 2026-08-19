@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrey9455/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3606-coupon-code-validator](https://github.com/shrey9455/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3606-coupon-code-validator](https://github.com/shrey9455/leetcode-journey/tree/master/3606-coupon-code-validator) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrey9455/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrey9455/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3606-coupon-code-validator](https://github.com/shrey9455/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shrey9455/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3606-coupon-code-validator](https://github.com/shrey9455/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
