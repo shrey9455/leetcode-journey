@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shrey9455/leetcode-journey/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shrey9455/leetcode-journey/tree/master/0190-reverse-bits) |
+| [0476-number-complement](https://github.com/shrey9455/leetcode-journey/tree/master/0476-number-complement) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shrey9455/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
