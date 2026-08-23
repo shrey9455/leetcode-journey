@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shrey9455/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shrey9455/leetcode-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrey9455/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Bit Manipulation
 |  |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
