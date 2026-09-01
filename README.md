@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrey9455/leetcode-journey/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shrey9455/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/shrey9455/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/shrey9455/leetcode-journey/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shrey9455/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/shrey9455/leetcode-journey/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
