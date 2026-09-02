@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shrey9455/leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrey9455/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/shrey9455/leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shrey9455/leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/shrey9455/leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shrey9455/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shrey9455/leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3606-coupon-code-validator](https://github.com/shrey9455/leetcode-journey/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/shrey9455/leetcode-journey/tree/master/3731-find-missing-elements) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shrey9455/leetcode-journey/tree/master/0443-string-compression) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shrey9455/leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shrey9455/leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shrey9455/leetcode-journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
