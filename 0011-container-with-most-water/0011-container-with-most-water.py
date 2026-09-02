@@ -6,13 +6,11 @@ class Solution(object):
         """
         i=0
         j=len(height)-1
-        container=0
-        result=0
+        result=float('-inf')
         while i<j:
-            container=min(height[i],height[j])*(j-i)
-            result=max(result,container)
-            if height[i]<height[j]:
-                i+=1
-            else:
+            result=max(min(height[i],height[j])*(j-i),result)
+            if height[i]>height[j]:
                 j-=1
+            else:
+                i+=1
         return result
