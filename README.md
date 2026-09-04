@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrey9455/leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrey9455/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shrey9455/leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shrey9455/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shrey9455/leetcode-journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrey9455/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
