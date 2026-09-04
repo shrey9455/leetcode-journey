@@ -4,8 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        for i in range(len(nums)):
-            if sum(nums[:i])==sum(nums[i+1:]):
+        left,right=0,sum(nums)
+        for i,num in enumerate(nums):
+            right-=num
+            if left==right:
                 return i
-        else:
-            return -1
+            left+=num
+        return -1
