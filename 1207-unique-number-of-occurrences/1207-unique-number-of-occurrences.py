@@ -4,8 +4,9 @@ class Solution(object):
         :type arr: List[int]
         :rtype: bool
         """
-        count=Counter(arr)
         unique=set()
+        count=Counter(arr)
+
         for i in count:
             if count[i] not in unique:
                 unique.add(count[i])
