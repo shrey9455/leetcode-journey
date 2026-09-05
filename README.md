@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrey9455/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shrey9455/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shrey9455/leetcode-journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shrey9455/leetcode-journey/tree/master/2487-remove-nodes-from-linked-list) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Recursion
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shrey9455/leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shrey9455/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
