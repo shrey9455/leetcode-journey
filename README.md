@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shrey9455/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/shrey9455/leetcode-journey/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/shrey9455/leetcode-journey/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shrey9455/leetcode-journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrey9455/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/shrey9455/leetcode-journey/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shrey9455/leetcode-journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shrey9455/leetcode-journey/tree/master/2487-remove-nodes-from-linked-list) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/shrey9455/leetcode-journey/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shrey9455/leetcode-journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
