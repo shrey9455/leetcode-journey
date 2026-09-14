@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/shrey9455/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shrey9455/leetcode-journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shrey9455/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shrey9455/leetcode-journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
