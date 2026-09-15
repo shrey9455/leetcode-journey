@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shrey9455/leetcode-journey/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0334-increasing-triplet-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/shrey9455/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shrey9455/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shrey9455/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shrey9455/leetcode-journey/tree/master/0735-asteroid-collision) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrey9455/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/shrey9455/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shrey9455/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
