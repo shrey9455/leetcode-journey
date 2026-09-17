@@ -9,28 +9,14 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        index = 0
-        cur = head
-
-        while cur:
-            index += 1
-            cur = cur.next
-
-        mid = index//2+1
-
-        index = 1
-        dummy = ListNode(0)
-        cur = dummy
-
-        while head:
-            if mid == index:
-                head = head.next
-            else:
-                cur.next = head
-                cur = cur.next
-                head = head.next
-
-            index += 1
-        cur.next=None
-
-        return dummy.next
+        prev=None
+        slow=head
+        fast=head
+        if head.next is None:
+            return None
+        while fast and fast.next:
+            prev=slow
+            slow=slow.next
+            fast=fast.next.next
+        prev.next=slow.next
+        return head
