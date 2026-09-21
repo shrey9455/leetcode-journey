@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrey9455/leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2301-match-substring-after-replacement](https://github.com/shrey9455/leetcode-journey/tree/master/2301-match-substring-after-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrey9455/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrey9455/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2301-match-substring-after-replacement](https://github.com/shrey9455/leetcode-journey/tree/master/2301-match-substring-after-replacement) |
 | [2390-removing-stars-from-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shrey9455/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shrey9455/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2301-match-substring-after-replacement](https://github.com/shrey9455/leetcode-journey/tree/master/2301-match-substring-after-replacement) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shrey9455/leetcode-journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrey9455/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2301-match-substring-after-replacement](https://github.com/shrey9455/leetcode-journey/tree/master/2301-match-substring-after-replacement) |
 ## Z Algorithm
 |  |
 | ------- |
