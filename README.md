@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shrey9455/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3280-convert-date-to-binary](https://github.com/shrey9455/leetcode-journey/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/shrey9455/leetcode-journey/tree/master/3606-coupon-code-validator) |
 ## Array
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shrey9455/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shrey9455/leetcode-journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
+| [3280-convert-date-to-binary](https://github.com/shrey9455/leetcode-journey/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shrey9455/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shrey9455/leetcode-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/shrey9455/leetcode-journey/tree/master/3870-count-commas-in-range) |
