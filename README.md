@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shrey9455/leetcode-journey/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/shrey9455/leetcode-journey/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/shrey9455/leetcode-journey/tree/master/0468-validate-ip-address) |
+| [0678-valid-parenthesis-string](https://github.com/shrey9455/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shrey9455/leetcode-journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrey9455/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrey9455/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrey9455/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/shrey9455/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrey9455/leetcode-journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Tree
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrey9455/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/shrey9455/leetcode-journey/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/shrey9455/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shrey9455/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrey9455/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrey9455/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shrey9455/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/shrey9455/leetcode-journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shrey9455/leetcode-journey/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/shrey9455/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shrey9455/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrey9455/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shrey9455/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrey9455/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrey9455/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrey9455/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
