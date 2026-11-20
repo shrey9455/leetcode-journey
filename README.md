@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shrey9455/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shrey9455/leetcode-journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrey9455/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3280-convert-date-to-binary](https://github.com/shrey9455/leetcode-journey/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
