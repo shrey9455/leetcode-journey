@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shrey9455/leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrey9455/leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/shrey9455/leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shrey9455/leetcode-journey/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shrey9455/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shrey9455/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shrey9455/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shrey9455/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrey9455/leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrey9455/leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shrey9455/leetcode-journey/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/shrey9455/leetcode-journey/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrey9455/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shrey9455/leetcode-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shrey9455/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/shrey9455/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/shrey9455/leetcode-journey/tree/master/1927-sum-game) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shrey9455/leetcode-journey/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shrey9455/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/shrey9455/leetcode-journey/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Bit Manipulation
